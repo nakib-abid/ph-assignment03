@@ -3,3 +3,7 @@
 body {
     font-family: "Manrope", sans-serif;
 }
+
+.next-project {
+    background-image: url(./image/bg.jpg);
+}
